@@ -1,7 +1,7 @@
 
 # ==============================================================================
 # SCRIPT 02 CORREGIDO - MODELO DE PRECIOS DE LEONTIEF - MIP 2023
-# TESIS: Impacto fiscal y distributivo de la reforma a subsidios - ALEX PAUCAR
+# TESIS: Impacto fiscal y distributivo de la reforma a subsidios
 # ==============================================================================
 
 library(readxl)
